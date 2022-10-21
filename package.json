@@ -1,16 +1,16 @@
 {
-"name": "gent888",
-"theme": "gent888",
-"version": "1.5.9",
-"description": "gent888 สมัครสมาชิกเว็บแทงบอลเว็บตรง สมาชิกเยอะ ให้เครดิตฟรี",
-"keywords": [
-"gent888",
-"gent888 เครดิตฟรี",
-"gent888 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/gent888",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "gent888",
+  "theme": "gent888",
+  "version": "1.6.0",
+  "description": "gent888 สมัครสมาชิกเว็บแทงบอลเว็บตรง สมาชิกเยอะ ให้เครดิตฟรี",
+  "keywords": [
+    "gent888",
+    "gent888 เครดิตฟรี",
+    "gent888 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/gent888",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
